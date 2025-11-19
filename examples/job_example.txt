@@ -1,0 +1,9 @@
+We are hiring a Senior Python Developer.
+Responsibilities:
+- Build and maintain REST APIs using Django or Flask.
+- Work with PostgreSQL and SQL optimization.
+- Experience with Docker and CI/CD pipelines.
+
+Requirements:
+- 5+ years of software development experience.
+- Strong skills in Python, Django, SQL, Docker.

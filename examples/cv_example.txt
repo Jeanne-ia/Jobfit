@@ -1,0 +1,14 @@
+Juan Pérez
+Email: juan@example.com
+
+Profile:
+Software engineer with 4 years building web applications and REST APIs.
+
+Skills: Python, Django, Flask, SQL, PostgreSQL, Docker, Git
+
+Experience:
+- Backend Developer at AcmeCorp (2021-2024): developed REST APIs in Django, worked with Postgres and Docker.
+- Developer at StartUpX (2019-2021): worked on full-stack features using Flask and front-end teams.
+
+Education:
+BSc Computer Science, Universidad Ejemplo
